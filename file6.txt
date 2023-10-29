@@ -1,0 +1,2 @@
+this is line1 in file6
+this is line2 in file6
